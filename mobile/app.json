@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Bharat Market AI",
+    "slug": "bharat-market-ai",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#080d16"
+      }
+    }
+  }
+}
